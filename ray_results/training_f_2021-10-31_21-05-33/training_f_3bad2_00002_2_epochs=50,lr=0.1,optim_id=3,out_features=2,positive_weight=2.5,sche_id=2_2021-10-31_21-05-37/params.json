@@ -1,0 +1,8 @@
+{
+  "epochs": 50,
+  "lr": 0.1,
+  "optim_id": 3,
+  "out_features": 2,
+  "positive_weight": 2.5,
+  "sche_id": 2
+}

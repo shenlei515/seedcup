@@ -1,0 +1,160 @@
+node_id= 0
+0.7848837008180102
+predict label=1::: 210
+real_label=1::: 204
+node_id= 1
+0.7847082297790774
+predict label=1::: 191
+real_label=1::: 204
+node_id= 2
+0.7956685295572797
+predict label=1::: 225
+real_label=1::: 204
+node_id= 3
+0.8008213357753335
+predict label=1::: 181
+real_label=1::: 204
+node_id= 4
+0.7999999802120004
+predict label=1::: 194
+real_label=1::: 204
+node_id= 5
+0.8021653343705444
+predict label=1::: 202
+real_label=1::: 204
+node_id= 6
+0.8132529923065762
+predict label=1::: 192
+real_label=1::: 204
+node_id= 7
+0.8104125536936329
+predict label=1::: 203
+real_label=1::: 204
+node_id= 8
+0.8089668415409874
+predict label=1::: 207
+real_label=1::: 204
+node_id= 9
+0.8032319188870742
+predict label=1::: 220
+real_label=1::: 204
+node_id= 10
+0.8050847254141535
+predict label=1::: 225
+real_label=1::: 204
+node_id= 11
+0.7919847125786672
+predict label=1::: 218
+real_label=1::: 204
+node_id= 12
+0.8118811682207631
+predict label=1::: 199
+real_label=1::: 204
+node_id= 13
+0.8136094475158436
+predict label=1::: 201
+real_label=1::: 204
+node_id= 14
+0.8024691151003618
+predict label=1::: 261
+real_label=1::: 204
+node_id= 15
+0.8083832137222565
+predict label=1::: 195
+real_label=1::: 204
+node_id= 16
+0.7954545251485027
+predict label=1::: 222
+real_label=1::: 204
+node_id= 17
+0.7972440745280245
+predict label=1::: 202
+real_label=1::: 204
+node_id= 18
+0.7884231338819372
+predict label=1::: 195
+real_label=1::: 204
+node_id= 19
+0.7970296830722482
+predict label=1::: 199
+real_label=1::: 204
+node_id= 20
+0.7954545251485027
+predict label=1::: 222
+real_label=1::: 204
+node_id= 21
+0.7952380749768713
+predict label=1::: 219
+real_label=1::: 204
+node_id= 22
+0.7854405928127897
+predict label=1::: 216
+real_label=1::: 204
+node_id= 23
+0.787601606422269
+predict label=1::: 186
+real_label=1::: 204
+node_id= 24
+0.7925635807633248
+predict label=1::: 205
+real_label=1::: 204
+node_id= 25
+0.8001893736333512
+predict label=1::: 222
+real_label=1::: 204
+node_id= 26
+0.7978723202956355
+predict label=1::: 211
+real_label=1::: 204
+node_id= 27
+0.7952286083755917
+predict label=1::: 197
+real_label=1::: 204
+node_id= 28
+0.7967557049450794
+predict label=1::: 218
+real_label=1::: 204
+node_id= 29
+0.7860040371756317
+predict label=1::: 187
+real_label=1::: 204
+node_id= 30
+0.792322814685505
+predict label=1::: 202
+real_label=1::: 204
+node_id= 31
+0.7938855816381318
+predict label=1::: 201
+real_label=1::: 204
+node_id= 32
+0.7942973327740473
+predict label=1::: 185
+real_label=1::: 204
+node_id= 33
+0.7932692105880182
+predict label=1::: 214
+real_label=1::: 204
+node_id= 34
+0.7899999802120005
+predict label=1::: 194
+real_label=1::: 204
+node_id= 35
+0.7849999802120006
+predict label=1::: 194
+real_label=1::: 204
+node_id= 36
+0.7911984814838199
+predict label=1::: 228
+real_label=1::: 204
+node_id= 37
+0.7860040371756317
+predict label=1::: 187
+real_label=1::: 204
+node_id= 38
+0.7824802950004656
+predict label=1::: 202
+real_label=1::: 204
+node_id= 39
+0.7767489517604029
+predict label=1::: 180
+real_label=1::: 204
